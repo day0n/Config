@@ -18,4 +18,4 @@ ssh -T -p 443 git@ssh.github.com
 
 #### Vimconfig
 
-修改你的用户目录下的.vimrc文件。~为用户目录
+修改你的用户目录下的.vimrc文件。~为用户目录.
