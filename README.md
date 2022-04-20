@@ -15,3 +15,7 @@ ssh -T -p 443 git@ssh.github.com
 ```
 
 那么你可以修改 ~/.ssh/config中的代码和我的config代码一样。
+
+#### Vimconfig
+
+修改你的用户目录下的.vimrc文件。~为用户目录
