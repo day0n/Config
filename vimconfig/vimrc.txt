@@ -1,0 +1,20 @@
+let skip_defaults_vim=1 
+
+"my setting"
+syntax on
+set showmode
+set mouse=a
+set autoindent
+set shiftwidth=4
+set number
+set hlsearch
+set showmatch
+set ignorecase
+set spell spelllang=en_us
+set noswapfile
+set undofile
+set history=1000
+syntax on             " 自动语法高亮
+let g:solarized_termcolors=256
+set background=dark
+colorscheme solarized
