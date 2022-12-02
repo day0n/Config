@@ -17,4 +17,3 @@ set history=1000
 syntax on             " 自动语法高亮
 let g:solarized_termcolors=256
 set background=dark
-colorscheme solarized
